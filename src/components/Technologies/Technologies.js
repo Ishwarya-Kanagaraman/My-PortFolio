@@ -27,20 +27,20 @@ const Technologies = () =>  (
       <ListItem>
         <DiFirebase size="3rem"/>
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>DataBase-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            Node.js and databases
+             MongoDB and MySql
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
         <DiZend size="3rem"/>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Backend</ListTitle>
           <ListParagraph>
             Experience with <br/>
-            tools like Figma
+            Nodejs
           </ListParagraph>
         </ListContainer>
       </ListItem>
