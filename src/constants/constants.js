@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/adminDashboard.png',
       tags: ['Bootstrap', 'HTML', 'CSS', 'React'],
     source: 'https://github.com/Ishwarya-Kanagaraman/dashboard-crud1',
-    visit: 'crud1	https://60faaba6bee07500b7ebc5db--dashboard-with-crud.netlify.app/',
+    visit: '	https://60faaba6bee07500b7ebc5db--dashboard-with-crud.netlify.app/',
     id: 0,
   },
   {
