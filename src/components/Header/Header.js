@@ -1,12 +1,14 @@
 import Link from 'next/link';
 import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
+import { SiSkillshare} from "react-icons/si";
 import { DiCssdeck } from 'react-icons/di';
 
 import { Container, Div1, Div2, Div3, NavLink, SocialIcons,Span } from './HeaderStyles';
 
 const Header = () =>  (
   <Container>
+    
     <Div1>
       <Link href="/">
         <a style={{display:'flex',alignItems:"center",color:"white",marginBottom:'20px'}}>
@@ -32,14 +34,14 @@ const Header = () =>  (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href="https://github.com/Ishwarya-Kanagaraman">
+      <SocialIcons target="_blank" href="https://github.com/Ishwarya-Kanagaraman">
         <AiFillGithub size="3rem"/>
       </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/ishwarya-kanagaraman-a223831b5/">
+      <SocialIcons target="_blank" href="https://www.linkedin.com/in/ishwarya-kanagaraman-a223831b5/">
         <AiFillLinkedin size="3rem"/>
       </SocialIcons>
-      <SocialIcons href="https://www.instagram.com/ishwarya9727/">
-        <AiFillInstagram size="3rem"/>
+      <SocialIcons target="_blank" href="https://drive.google.com/file/d/1WwXDpKm9yeK531Mvh8GRU5eBlWc1yQlF/view?usp=sharing">
+        <SiSkillshare title="resume"size="3rem"/>
       </SocialIcons>
     </Div3>
   </Container>

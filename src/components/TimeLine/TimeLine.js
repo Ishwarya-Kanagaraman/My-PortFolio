@@ -61,8 +61,8 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I started my career by HTML,CSS and Javascript.
-        The first website which i created inspired me to explore more on that so continued my learning with React js , and with MERN.
+        I started my career through learning HTML,CSS and Javascript.
+        The first website which I created inspired me to explore more on that so continued my learning with React js , and with MERN.
          Finally Now Im able to do Full Stack Application.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>

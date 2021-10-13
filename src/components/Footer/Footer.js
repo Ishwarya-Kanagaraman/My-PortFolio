@@ -34,15 +34,15 @@ const Footer = () => {
           <Slogan>Just Do it</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/Ishwarya-Kanagaraman">
+          <SocialIcons target="_blank" href="https://github.com/Ishwarya-Kanagaraman">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.linkedin.com/in/ishwarya-kanagaraman-a223831b5/">
+          <SocialIcons target="_blank" href="https://www.linkedin.com/in/ishwarya-kanagaraman-a223831b5/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://www.instagram.com/ishwarya9727/">
+          {/* <SocialIcons href="https://www.instagram.com/ishwarya9727/">
             <AiFillInstagram size="3rem" />
-          </SocialIcons>
+          </SocialIcons> */}
         </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>
