@@ -13,8 +13,8 @@ export const projects = [
     description: "It is a MERN Stack project, which includes the authentication, shopping, payment methods and have admin controls, with some more extra features.",
     image: '/images/e-commerce.jpg',
     tags: ['Express','Mongo','React','Nodejs'],
-    source: 'https://github.com/Ishwarya-Kanagaraman/instagram-clone',
-    visit: 'https://instag-clone24.herokuapp.com/',
+    source: 'https://github.com/Ishwarya-Kanagaraman/ecommerce',
+    visit: 'https://ecommerce-24.netlify.app/',
     id: 4,
   },
   {
@@ -44,16 +44,6 @@ export const projects = [
     visit: 'https://60d4af61f6d53435f2de6454--kind-poincare-75d249.netlify.app/',
     id: 1,
   },
- 
-  // {
-  //   title: 'Authentication App',
-  //   description: "Here basic authentication is done for login,signup,forgot password using bcrypt and hashing process using JWT. Technologies used are Mongo,Express,React and Nodejs",
-  //   image: '/images/Authentication.png',
-  //   tags: ['Express','Mongo','React','Nodejs'],
-  //   source: 'https://github.com/Ishwarya-Kanagaraman/password-reset-frontEnd',
-  //   visit: 'https://main--password-reset-frontend.netlify.app/',
-  //   id: 3,
-  // },
   {
     title: 'Whatsapp Clone',
     description: "It is a mern stack project where Pusher is used for real time chat and it replicated the UI of whatsapp",
@@ -64,8 +54,6 @@ export const projects = [
     id: 3,
   },
 
-  
-  
 ];
 
 export const TimeLineData = [
