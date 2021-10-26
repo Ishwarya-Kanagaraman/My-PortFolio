@@ -3,6 +3,7 @@ import React from "react";
 import {
   Section,
   SectionText,
+  SectionDivider,
   SectionTitle,
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
@@ -31,6 +32,7 @@ const Hero = (props) => (
       >
         Learn More
       </Button>
+      <SectionDivider />
     </LeftSection>
   </Section>
 );

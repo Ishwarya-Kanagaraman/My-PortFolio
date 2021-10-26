@@ -63,7 +63,7 @@ const Timeline = () => {
       <SectionText>
         I started my career through learning HTML,CSS and Javascript.
         The first website which I created inspired me to explore more on that so continued my learning with React js , and with MERN.
-         Finally Now Im able to do Full Stack Application.
+         Finally Now Im able to do Full Stack Application.And interested to  explore more ...
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
       <>
@@ -126,7 +126,7 @@ const Timeline = () => {
           </CarouselButton>
         ))}
       </CarouselButtons>
-      <SectionDivider/>
+      
     </Section>
   );
 };

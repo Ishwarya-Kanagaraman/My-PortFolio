@@ -59,7 +59,7 @@ export const projects = [
 export const TimeLineData = [
   { year: 2014, text: 'Completed SSLC with 98%', },
   { year: 2016, text: 'Completed HSC with 96%', },
-  { year: '2020 (Sep)', text: 'Completed BE with CGPA 7.1', },
+  { year: '2020 (Sep)', text: 'Completed BE(ECE) with CGPA 7.1', },
   { year: '2020 (Nov)', text: 'Started My career in Web development', },
   { year: 2021, text: 'Started developing web application', },
 ];
