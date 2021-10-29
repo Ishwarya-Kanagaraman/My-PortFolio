@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/e-commerce.jpg',
     tags: ['Express','Mongo','React','Nodejs'],
     source: 'https://github.com/Ishwarya-Kanagaraman/ecommerce',
-    visit: 'https://ecommerce-24.netlify.app/',
+    visit: 'https://devat-ecommerce.herokuapp.com/',
     id: 4,
   },
   {

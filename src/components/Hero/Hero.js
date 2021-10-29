@@ -30,7 +30,7 @@ const Hero = (props) => (
           )
         }
       >
-        Learn More
+        View Resume
       </Button>
       <SectionDivider />
     </LeftSection>
