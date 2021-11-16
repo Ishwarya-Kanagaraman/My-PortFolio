@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Admin Dashboard',
-    description: "Using React,Bootstrap,HTML and CSS I learnt how to an Entire Admin Dashboard  - from start to finish. The App is called Memories and it is a simple  app that allows users to do CRUD operation in their Users.",
+    description: "Using React,Bootstrap,HTML and CSS I learnt how to create an Entire Admin Dashboard  - from start to finish. It is a simple  app that allows users to do CRUD operation in their Users.",
       image: '/images/adminDashboard.png',
       tags: ['Bootstrap', 'HTML', 'CSS', 'React'],
     source: 'https://github.com/Ishwarya-Kanagaraman/dashboard-crud1',
